@@ -9,4 +9,4 @@
 
 **Languages & Tools**
 
-<img align="left" alt="html" width="30px" src="/html.png" />
+<img align="left" alt="html" width="35px" src="/html.png" />

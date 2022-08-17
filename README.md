@@ -9,17 +9,4 @@
 
 **Languages & Tools**
 
-![html](/html.png)
-![css](/css.png)
-![javascript](/javascript.png)
-![bootstrap](/bootstrap.png)
-![jquery](/jquery.png)
-![react](/react.png)
-![redux](/redux.png)
-![react-router](/react-router.png)
-![parcel](/parcel.png)
-![github](/github.png)
-![netlify](/netlify.png)
-![firebase](/firebase.png)
-![sql](/sql.png)
-![erpnext](/erpnext.png)
+<img align="left" alt="html" width="26px" src="/html.png" />

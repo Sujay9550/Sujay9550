@@ -10,3 +10,5 @@
 **Languages & Tools**
 
 ![html](/html.png)
+![css](/css.png)
+![javascript](/javascript.png)

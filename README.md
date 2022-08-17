@@ -10,3 +10,16 @@
 **Languages & Tools**
 
 <img align="left" alt="html" width="35px" src="/html.png" />
+<img align="left" alt="css" width="35px" src="/css.png" />
+<img align="left" alt="javascript" width="35px" src="/javascript.png" />
+<img align="left" alt="bootstrap" width="35px" src="/bootstrap.png" />
+<img align="left" alt="jquery" width="35px" src="/jquery.png" />
+<img align="left" alt="react" width="35px" src="/react.png" />
+<img align="left" alt="redux" width="35px" src="/redux.png" />
+<img align="left" alt="react-router" width="35px" src="/react-router.png" />
+<img align="left" alt="parcel" width="35px" src="/parcel.png" />
+<img align="left" alt="github" width="35px" src="/github.png" />
+<img align="left" alt="netlify" width="35px" src="/netlify.png" />
+<img align="left" alt="firebase" width="35px" src="/firebase.png" />
+<img align="left" alt="sql" width="35px" src="/sql.png" />
+<img align="left" alt="erpnext" width="35px" src="/erpnext.png" />

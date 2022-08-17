@@ -8,4 +8,5 @@
 - 🚴‍♂️ You can reach me at 📫 `hardysujay@gmail.com` or connect me on [LinkedIn](https://linkedin.com/in/sujay-naik-064a50117)
 
 **Languages & Tools**
+
 ![html](/html.png)

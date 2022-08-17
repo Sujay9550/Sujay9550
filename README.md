@@ -4,5 +4,5 @@
 
 - 👀 I’m interested in developing engaging UI that users love.
 - 🌱 I’m currently learning frontend technologies.
-- 💞️ I’m looking to collaborate, learn and gain knowledge from other developers.
+- 🔭 I’m looking to collaborate, learn and gain knowledge from other developers.
 - 🚴‍♂️ You can reach me at 📫 `hardysujay@gmail.com`
